@@ -1,0 +1,4 @@
+DELETE FROM Test
+WHERE Id = 02;
+INSERT INTO Test VALUES (2, 'DMLexample');
+SELECT * FROM Test;
